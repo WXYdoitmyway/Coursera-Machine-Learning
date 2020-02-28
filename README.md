@@ -1,2 +1,2 @@
 # Coursera-Machine-Learning
-This repo is specially created for all the work I've done for the Machine Learning course in the Coursera.
+This repo is specially created for the code I've written for the Machine Learning course in the Coursera.
